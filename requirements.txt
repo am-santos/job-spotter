@@ -5,3 +5,4 @@ celery
 redis
 playwright
 whitenoise
+dj-database-url

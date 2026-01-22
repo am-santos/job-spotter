@@ -1,0 +1,63 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Google Auth
+        id: auth
+        uses: google-github-actions/auth@v2
+        with:
+          token_format: "access_token"
+          workload_identity_provider: "${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}"
+          service_account: "${{ vars.GCP_SERVICE_ACCOUNT }}"
+
+      - name: Docker Auth
+        uses: docker/login-action@v3
+        with:
+          username: "oauth2accesstoken"
+          password: "${{ steps.auth.outputs.access_token }}"
+          registry: "europe-west1-docker.pkg.dev"
+
+      - name: Build and Push Container
+        run: |
+          docker build -t ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/${{ vars.GAR_REPOSITORY }}/${{ vars.GAR_IMAGE }}:${{ github.sha }} .
+          docker push ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/${{ vars.GAR_REPOSITORY }}/${{ vars.GAR_IMAGE }}:${{ github.sha }}
+
+      - name: Deploy Web
+        uses: google-github-actions/deploy-cloudrun@v2
+        with:
+          service: career-platform-web
+          image: ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/${{ vars.GAR_REPOSITORY }}/${{ vars.GAR_IMAGE }}:${{ github.sha }}
+          region: ${{ vars.GCP_REGION }}
+          env_vars: |
+            DJANGO_SETTINGS_MODULE=production
+            SECRET_KEY=${{ secrets.SECRET_KEY }}
+            DATABASE_URL=${{ secrets.DATABASE_URL }}
+            REDIS_URL=${{ secrets.REDIS_URL }}
+
+      - name: Deploy Worker
+        uses: google-github-actions/deploy-cloudrun@v2
+        with:
+          service: career-platform-worker
+          image: ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/${{ vars.GAR_REPOSITORY }}/${{ vars.GAR_IMAGE }}:${{ github.sha }}
+          region: ${{ vars.GCP_REGION }}
+          env_vars: |
+            DJANGO_SETTINGS_MODULE=production
+            SECRET_KEY=${{ secrets.SECRET_KEY }}
+            DATABASE_URL=${{ secrets.DATABASE_URL }}
+            REDIS_URL=${{ secrets.REDIS_URL }}
+          flags: "--command=celery --args=-A,config,worker,--loglevel=info --no-cpu-throttling --min-instances=0"
