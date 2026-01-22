@@ -21,3 +21,8 @@ variable "db_password" {
   type        = string
   sensitive   = true
 }
+
+variable "github_repository" {
+  description = "The GitHub repository in the format OWNER/REPO"
+  type        = string
+}

@@ -9,8 +9,6 @@ python manage.py migrate
 echo "Collecting static files..."
 python manage.py collectstatic --noinput
 
-# Start Gunicorn
-# Bind to 0.0.0.0:$PORT (default 8080 used by Cloud Run)
-PORT=${PORT:-8000}
-echo "Starting Gunicorn on port $PORT..."
-exec gunicorn config.wsgi:application --bind 0.0.0.0:$PORT
+# Execute the command passed to the docker container
+echo "Executing command: $@"
+exec "$@"

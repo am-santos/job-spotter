@@ -43,3 +43,8 @@ output "artifact_registry_repo" {
   value = google_artifact_registry_repository.repo.name
 }
 
+output "provider_resource_name" {
+  description = "The resource name of the Workload Identity Pool Provider"
+  value       = google_iam_workload_identity_pool_provider.github_provider.name
+}
+

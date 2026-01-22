@@ -3,3 +3,6 @@ region     = "europe-west1"
 env        = "prod"
 # db_password is NOT here because it is a secret.
 # Pass it via environment variable: export TF_VAR_db_password="secret_password"
+github_repository = "MY_GITHUB_USER/MY_REPO_NAME"
+
+# provider_resource_name = "projects/321333907174/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
