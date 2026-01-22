@@ -7,7 +7,7 @@ ENV PYTHONUNBUFFERED=1
 
 # Set work directory
 WORKDIR /app
-ENV PYTHONPATH=/app/src:$PYTHONPATH
+ENV PYTHONPATH=/app/src
 
 # Install system dependencies needed for Playwright and potential build tools
 RUN apt-get update && apt-get install -y --no-install-recommends \
