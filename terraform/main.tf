@@ -84,3 +84,10 @@ resource "google_cloud_scheduler_job" "scraping_job" {
     }
   }
 }
+
+resource "google_artifact_registry_repository_iam_member" "repo_writer" {
+  location   = google_artifact_registry_repository.repo.location
+  repository = google_artifact_registry_repository.repo.name
+  role       = "roles/artifactregistry.writer"
+  member     = "serviceAccount:${google_service_account.gsa.email}"
+}
