@@ -1,0 +1,35 @@
+{% extends 'dashboard/base.html' %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-6">
+        <h2>Companies</h2>
+        <ul class="list-group">
+            {% for company in companies %}
+            <li class="list-group-item">
+                <a href="{{ company.url }}" target="_blank">{{ company.name }}</a>
+            </li>
+            {% empty %}
+            <li class="list-group-item">No companies found.</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <h2>Jobs</h2>
+        <div class="list-group">
+            {% for job in jobs %}
+            <a href="#" class="list-group-item list-group-item-action">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">{{ job.title }}</h5>
+                    <small>Score: {{ job.match_score }}</small>
+                </div>
+                <p class="mb-1">{{ job.company.name }}</p>
+                <small>{{ job.description|truncatewords:20 }}</small>
+            </a>
+            {% empty %}
+            <div class="list-group-item">No jobs found.</div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}
