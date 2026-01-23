@@ -26,12 +26,21 @@ RUN playwright install
 # Copy project
 COPY . /app/
 
+# Set defaults for build time
+ENV DJANGO_SETTINGS_MODULE=config.settings
+
+# Collect static files during build
+RUN python manage.py collectstatic --noinput
+
 # Copy entrypoint
 COPY entrypoint.sh /app/
 RUN chmod +x /app/entrypoint.sh
 
 # Expose port
-EXPOSE 8000
+EXPOSE 8080
 
 # Set entrypoint
 ENTRYPOINT ["/app/entrypoint.sh"]
+
+# Start the application using Gunicorn with dynamic port
+CMD ["sh", "-c", "gunicorn config.wsgi:application --bind 0.0.0.0:${PORT:-8080}"]

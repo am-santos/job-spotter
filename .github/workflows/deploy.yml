@@ -44,7 +44,7 @@ jobs:
           image: ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/${{ vars.GAR_REPOSITORY }}/${{ vars.GAR_IMAGE }}:${{ github.sha }}
           region: ${{ vars.GCP_REGION }}
           env_vars: |
-            DJANGO_SETTINGS_MODULE=production
+            DJANGO_SETTINGS_MODULE=config.settings
             SECRET_KEY=${{ secrets.SECRET_KEY }}
             DATABASE_URL=${{ secrets.DATABASE_URL }}
             REDIS_URL=${{ secrets.REDIS_URL }}
@@ -57,7 +57,7 @@ jobs:
           image: ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/${{ vars.GAR_REPOSITORY }}/${{ vars.GAR_IMAGE }}:${{ github.sha }}
           region: ${{ vars.GCP_REGION }}
           env_vars: |
-            DJANGO_SETTINGS_MODULE=production
+            DJANGO_SETTINGS_MODULE=config.settings
             SECRET_KEY=${{ secrets.SECRET_KEY }}
             DATABASE_URL=${{ secrets.DATABASE_URL }}
             REDIS_URL=${{ secrets.REDIS_URL }}
