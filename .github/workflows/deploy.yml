@@ -61,4 +61,5 @@ jobs:
             SECRET_KEY=${{ secrets.SECRET_KEY }}
             DATABASE_URL=${{ secrets.DATABASE_URL }}
             REDIS_URL=${{ secrets.REDIS_URL }}
-          flags: "--no-allow-unauthenticated --command=celery --args=-A,config,worker,--loglevel=info --no-cpu-throttling --min-instances=0 --vpc-connector projects/${{ vars.GCP_PROJECT_ID }}/locations/${{ vars.GCP_REGION }}/connectors/prod-connector --vpc-egress=all-traffic"
+            SERVICE_ROLE=worker
+          flags: "--no-allow-unauthenticated --no-cpu-throttling --min-instances=0 --vpc-connector projects/${{ vars.GCP_PROJECT_ID }}/locations/${{ vars.GCP_REGION }}/connectors/prod-connector --vpc-egress=all-traffic"
