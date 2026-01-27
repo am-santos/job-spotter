@@ -33,7 +33,7 @@ ENV DJANGO_SETTINGS_MODULE=config.settings
 RUN python manage.py collectstatic --noinput
 
 # Copy entrypoint
-COPY entrypoint.sh /app/
+COPY scripts/entrypoint.sh /app/
 RUN chmod +x /app/entrypoint.sh
 
 # Expose port

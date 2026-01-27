@@ -6,3 +6,8 @@ redis
 playwright
 whitenoise
 dj-database-url
+python-dotenv
+ruff
+mypy
+django-stubs
+types-redis
