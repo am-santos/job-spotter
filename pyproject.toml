@@ -34,6 +34,7 @@ exclude = [
     "site-packages",
     "venv",
     "*/migrations/*.py",
+    "sensitive_snippets.py",
 ]
 
 # Same as Black.
@@ -78,6 +79,7 @@ exclude = [
     "^venv/",
     "^.*/migrations/.*",
     "^.*/tests/.*",
+    "sensitive_snippets.py",
 ]
 plugins = ["mypy_django_plugin.main"]
 
