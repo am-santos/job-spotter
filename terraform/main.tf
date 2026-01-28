@@ -81,6 +81,7 @@ resource "google_cloud_scheduler_job" "scraping_job" {
 
     oidc_token {
       service_account_email = google_service_account.gsa.email
+      audience              = "${google_cloud_run_v2_service.app.uri}/api/trigger-scraping/"
     }
   }
 }

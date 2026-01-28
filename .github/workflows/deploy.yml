@@ -61,7 +61,7 @@ jobs:
       - name: Deploy Web
         uses: google-github-actions/deploy-cloudrun@v2
         with:
-          service: career-platform-web
+          service: prod-app
           image: ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/${{ vars.GAR_REPOSITORY }}/${{ vars.GAR_IMAGE }}:${{ github.sha }}
           region: ${{ vars.GCP_REGION }}
           env_vars: |
