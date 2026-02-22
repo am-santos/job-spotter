@@ -1,0 +1,286 @@
+TITLE: Senior Python Developer
+URL: https://adapty.io/pt/careers/senior-python-developer
+MATCH SCORE: 95
+REASONING: This job is a Senior Python Developer role, which perfectly aligns with the user's criteria for a Backend Engineer utilizing Python. The user's 5 years of experience is typically sufficient to target Senior-level roles, especially given the strong technical match (Python, FastAPI, Postgres, distributed systems).
+PUBLISHED: None
+----------------------------------------
+SUMMARY: This is a remote Senior Python Developer role at FunnelFox (Adapty), focusing on the Billing department. The engineer will be responsible for building, maintaining, and optimizing high-conversion web-to-app funnels, focusing heavily on payment processing, subscription management, and integration reliability using a modern async Python stack.
+
+TECH STACK:
+- Python
+- FastAPI
+- ClickHouse
+- PostgreSQL
+- Redis
+- Kafka
+- Docker
+- Kubernetes
+- asyncio
+- aiohttp
+- SQLAlchemy
+
+REQUIREMENTS:
+- Solid Python 3.8+ skills and ability to write clean, maintainable code.
+- Comfortable with asyncio, FastAPI or aiohttp, PostgreSQL, and SQLAlchemy.
+- Understanding and consistent application of software security principles.
+- Enjoys chasing bottlenecks and optimizing performance.
+- Experience working with payments like Stripe, Adyen, or PayPal (nice to have).
+- Familiarity with Docker, Kubernetes, Redis, Prometheus, or Grafana (nice to have).
+
+KEY RESPONSIBILITIES:
+- Develop async processes with asyncio.
+- Structure services using Domain-Driven Design (DDD).
+- Build and maintain integrations with SSO, payment providers, and attribution pipelines.
+- Improve reliability and availability for third-party integrations and app store API fetching.
+- Set up payment processing and subscription management services.
+- Write unit and integration tests to keep quality high.
+
+SALARY: None
+
+PERKS:
+- Strong product with industry-best metrics (top 5% fastest-growing SaaS).
+- Career growth opportunities (own critical areas, build a team).
+- Direct communication and ownership (no bureaucracy/politics).
+- Flexible remote work (work from anywhere).
+- Benefits package (English lessons, sports reimbursements, laptop coverage, PTO, public holidays, and sick leave included as individual contractors).
+
+APPLICATION PROCESS: Apply for a job now via the company's application portal.
+----------------------------------------
+
+--- RAW CONTENT ---
+Senior Python Developer | Adapty
+Log in
+Log in
+Sign up
+Contact sales
+Senior Python Developer
+Billing
+Remote
+Full-time
+Senior
+Apply for a job now
+FunnelFox is the leading platform for mobile apps revenue growth. We help top mobile apps build, launch and optimize high-converting web-to-app funnels – from landing pages and checkout to analytics, payments and retention. Our platform powers millions in subscription revenue for leading apps worldwide by saving on App Store commissions, combining data, design and performance into one seamless solution.
+We’re a small, product-minded engineering team that loves building things that look and feel great. Everyone here cares deeply about the experience we create — from how fast something loads to how it feels to use.
+We don’t just move tickets; every engineer has a voice, a vision, and real ownership in shaping the product. We collaborate directly with founders and product teams, ship fast, and constantly push to make FunnelFox better – both technically and experientially.
+Our Stack: 
+Python, FastAPI, ClickHouse, PostgreSQL, Redis, Kafka, Docker, and Kubernetes
+What you will do
+Develop async processes with asyncio and structure services using Domain-Driven Design.
+Build and maintain integrations with SSO, payment providers, and attribution pipelines.
+Improve reliability and availability for third-party integrations and app store API fetching.
+Set up payment processing and subscription management services.
+Write unit and integration tests to keep quality high.
+About you
+You have solid Python 3.8+ skills and write clean, maintainable code.
+You’re comfortable with asyncio, FastAPI or aiohttp, PostgreSQL, and SQLAlchemy.
+You understand software security principles and apply them consistently.
+You enjoy chasing bottlenecks and optimizing performance.
+You’ve worked with payments like Stripe, Adyen, or PayPal (nice to have).
+You’re familiar with Docker, Kubernetes, Redis, Prometheus, or Grafana (nice to have).
+What’s in it for you 
+Strong product with industry-best metrics. FunnelFox is among the top 5% fastest-growing SaaS companies.
+Career growth. Own critical areas, build a team and grow with us.
+Direct communication and ownership. No bureaucracy, no politics – just impact.
+Flexible remote work. Join us from anywhere, and deliver impressive results. We work as individual contractors (PTO, public holidays, and sick leave included).
+Benefits. English lessons, sports reimbursements, laptop coverage, and more.
+Share this job:
+Job Information
+Department
+Billing
+Location
+Remote
+Employee Type
+Full-time
+Career Level
+Senior
+Apply for a job now
+Share this job:
+Company
+Why Adapty?
+About us
+Careers
+Contact us
+Become a partner
+SOC 2 compliance
+Terms
+Privacy policy
+Data protection
+End-Users privacy policy
+Cookie policy
+Factoring agreement
+Product
+Why Adapty?
+Product changelog
+System status
+Comparisons
+Tech
+Subscriptions SDK
+Subscribers sync
+Fallback paywalls
+Refund saver
+Reliability
+new
+Analytics
+Revenue analytics
+LTV analytics
+AI LTV and revenue predictions
+LTV prediction model
+Apple ads manager
+Paywalls
+Paywall builder
+Onboarding builder
+AI generator
+A/B testing
+Autopilot
+Targeting
+Localizations
+Remote config
+Solution
+By Role
+For developers
+For marketers
+For app owners
+By Stage
+Indie
+Startups
+Publishers
+Enterprise
+By Case
+Integrate IAP/subscriptions
+Grow subscription revenue
+Analyze revenue performance
+Resources
+Learn
+Blog
+Podcasts
+Glossary
+Ebooks
+Connect
+Community
+Webinars
+Events
+Careers
+Discover
+Documentation
+Paywall newsletter
+Apple receipt validation
+Apple fiscal calendar
+Adapty pricing index
+Apple ads manager
+Subscription calculator
+Refund calculator
+Paywall A/B testing guide
+LTV prediction model
+Paywall library
+Comparing alternatives
+Ebooks
+Grow your app from $10K to $100K MRR
+Turn your weekend app into a $1K/mo business
+Scale your app from $1K to $10K MRR
+A refund guide to saving your app revenue
+Design a mobile paywall to boost subs
+View all ebooks
+Reports
+Onboarding A/B test ideas checklist
+Adapty Pricing Index
+State of in-app subscriptions 2025
+2024 holiday insights for subscription apps
+State of in-app subscriptions 2024
+State of in-app subscriptions in the US 2023
+State of Android in-app subscriptions 2022
+State of iOS in-app subscriptions 2021
+View all reports
+Compare
+RevenueCat
+Purchasely
+Qonversion
+Superwall
+In-house development
+View all comparisons
+
+
+Integrations
+Adjust
+Airbridge
+Amazon S3
+Amplitude
+AppMetrica
+Apple Ads
+AppsFlyer
+Asapty
+Branch
+Braze
+Facebook Ads
+Firebase
+Google Cloud Storage
+Google Analytics
+Mixpanel
+OneSignal
+PostHog
+Pushwoosh
+Singular
+SplitMetrics
+Stripe
+Tenjin
+Webhook
+View all integrations
+Subscriptions SDK
+iOS
+Android
+React Native
+Unity
+Flutter
+FlutterFlow
+Capacitor
+KMP
+Web
+Stripe
+Case Studies
+View all case studies
+Welmi
+MRR tripled
+Productivity app
++50% revenue with Adapty Autopilot
+Text on Pic
+Reignited growth with Autopilot
+Trip planning
+Doubled revenue per user
+Going Merry
+5x revenue growth using Paywall Builder
+Shmoody
+Grew from $0 to $2M ARR with Adapty
+Lively
+Saved 82% of potentially lost revenue
+Glam AI
+Tripled revenue, same installs
+Pepapp
+How to make Adapty free
+Fotorama
+How to decrease the refund rate with Adapty
+Docs
+Quick start
+Migrate to Adapty
+Platform status page
+Support center
+All docs
+Mobile SDK
+iOS
+Android
+React Native
+Flutter
+FlutterFlow
+Capacitor
+Kotlin Multiplatform
+Unity
+Web payments
+Stripe
+WEB API
+Server-side API
+
+
+Pricing
+Blog
+web2app
+Log in
+Sign up
+Contact sales

@@ -1,0 +1,289 @@
+TITLE: Backend Developer (Python)
+URL: https://adapty.io/pt/careers/backend-developer-python
+MATCH SCORE: 100
+REASONING: The job is highly relevant as it is explicitly a Backend Developer (Python) role. The main requirement perfectly matches the user's experience level, asking for 5+ years of backend engineering experience with a strong Python background. The user is looking for a Python Backend Engineer and has 5 years of experience.
+PUBLISHED: None
+----------------------------------------
+SUMMARY: Adapty is hiring an experienced Backend Developer to design and scale a high-load analytics platform for Apple Ads. The role involves deep integration with Apple APIs, asynchronous processing, complex business logic modeling using Domain-Driven Design (DDD), and optimizing systems built on a modern Python-based tech stack to ensure high performance and fault tolerance for global applications.
+
+TECH STACK:
+- Python
+- FastAPI
+- ClickHouse
+- PostgreSQL
+- Redis
+- Kafka
+- Docker
+- Kubernetes
+- Dramatiq
+- Django (familiarity)
+
+REQUIREMENTS:
+- 5+ years of backend engineering experience with a strong Python background
+- Expertise designing APIs that handle high-load, mission-critical traffic
+- Solid hands-on experience with SQL/NoSQL databases
+- Familiarity with FastAPI/Django and message brokers like Kafka or RabbitMQ
+- Experience integrating with third-party APIs, especially Apple APIs (a plus)
+- Proactive mindset: anticipate problems, propose better solutions, and make thoughtful trade-offs
+- Demonstrate strong ownership and communication skills
+
+KEY RESPONSIBILITIES:
+- Design and develop a new high-load analytics platform for Apple Ads, powering dashboards and APIs for real-time campaign insights
+- Work with queues and asynchronous processing (Dramatiq, Kafka), applying Domain-Driven Design (DDD) to model complex business logic and event flows
+- Integrate deeply with Apple APIs to fetch ad metrics, campaign data, and subscription events, processing large volumes efficiently
+- Enhance error handling, monitoring, and retries, and optimize communication with app stores through API-driven solutions
+- Use a modern tech stack (Python, FastAPI, ClickHouse, PostgreSQL, Redis, Kafka, Docker, Kubernetes), ensuring high observability and fault tolerance
+
+SALARY: None
+
+PERKS:
+- Strong product with industry-best metrics (Top 5% fastest-growing SaaS companies)
+- Career growth and competitive compensation
+- Direct communication and ownership (No bureaucracy, no politics)
+- Flexible remote work
+- English lessons
+- Sports reimbursements
+- Laptop coverage
+
+APPLICATION PROCESS: Application can be submitted via the 'Apply for a job now' button/link provided on the job page.
+----------------------------------------
+
+--- RAW CONTENT ---
+Backend Developer (Python) | Adapty
+Log in
+Log in
+Sign up
+Contact sales
+Backend Developer (Python)
+Product
+Remote
+Full-time
+Apply for a job now
+Hi, I’m 
+Mykola
+, Product Lead at Adapty.
+Before joining Adapty, I built and scaled SaaS products and worked on growth and monetization systems for subscription apps. At Adapty, I lead the team behind Adapty Ads Intelligence – our platform for analytics, management, and automation of Apple Ads campaigns. Now, we’re looking for an 
+experienced Backend Engineer
+ to join our technical team and help build high-performance, scalable systems that power thousands of apps worldwide.
+At Adapty, we make it easy for mobile apps to manage in-app purchases and paywalls. We power 12K+ apps, process $2B+ in subscriptions every year, and have been growing fast for the last four years. Our mission is simple: help every app unlock its full revenue potential.
+We are a team of 170+ passionate, product-driven people who love solving big challenges. Backed by top investors like 500 Startups and Surface Ventures, we are building one of mobile’s fastest-growing SaaS companies and aiming for number one worldwide.
+Our engineering team is the backbone of Adapty’s platform. We solve hard problems, process billions of events, and scale systems seamlessly. We follow Domain-Driven Design (DDD), clean architecture, and focus on solving challenging technical problems – not routine tasks. If you enjoy working with high-load architectures, shaping systems that others rely on, and building products developers love, you’ll feel at home here.
+What you will do
+Design and develop a new high-load analytics platform for Apple Ads, powering dashboards and APIs for real-time campaign insights.
+Work with queues and asynchronous processing (Dramatiq, Kafka), applying Domain-Driven Design to model complex business logic and event flows.
+Integrate deeply with Apple APIs to fetch ad metrics, campaign data, and subscription events, processing large volumes efficiently.
+Enhance error handling, monitoring, and retries, and optimize communication with app stores through API-driven solutions.
+Use a modern tech stack: Python, FastAPI, ClickHouse, PostgreSQL, Redis, Kafka, Docker, Kubernetes, ensuring high observability and fault tolerance.
+About you 
+You have 5+ years of backend engineering experience with a strong Python background
+You possess expertise designing APIs that handle high-load, mission-critical traffic
+You have solid hands-on experience with SQL/NoSQL databases
+You’re familiar with FastAPI/Django and message brokers like Kafka or RabbitMQ
+You have experience integrating with third-party APIs, especially Apple APIs (a plus)
+You bring a proactive mindset: you anticipate problems, propose better solutions, and make thoughtful trade-offs
+You demonstrate strong ownership and communication skills—comfortable defending technical decisions and collaborating across teams
+What’s in it for you
+Strong product with industry-best metrics. Adapty is among the top 5% fastest-growing SaaS companies.
+Career growth and competitive compensation. Build your team, own critical product areas, and grow with us.
+Direct communication and ownership. No bureaucracy, no politics — just impact.
+Flexible remote work. Join us from anywhere, with a schedule that fits your life.
+Additional benefits. English lessons, sports reimbursements, laptop coverage, and more.
+Share this job:
+Job Information
+Department
+Product
+Location
+Remote
+Employee Type
+Full-time
+Apply for a job now
+Share this job:
+Company
+Why Adapty?
+About us
+Careers
+Contact us
+Become a partner
+SOC 2 compliance
+Terms
+Privacy policy
+Data protection
+End-Users privacy policy
+Cookie policy
+Factoring agreement
+Product
+Why Adapty?
+Product changelog
+System status
+Comparisons
+Tech
+Subscriptions SDK
+Subscribers sync
+Fallback paywalls
+Refund saver
+Reliability
+new
+Analytics
+Revenue analytics
+LTV analytics
+AI LTV and revenue predictions
+LTV prediction model
+Apple ads manager
+Paywalls
+Paywall builder
+Onboarding builder
+AI generator
+A/B testing
+Autopilot
+Targeting
+Localizations
+Remote config
+Solution
+By Role
+For developers
+For marketers
+For app owners
+By Stage
+Indie
+Startups
+Publishers
+Enterprise
+By Case
+Integrate IAP/subscriptions
+Grow subscription revenue
+Analyze revenue performance
+Resources
+Learn
+Blog
+Podcasts
+Glossary
+Ebooks
+Connect
+Community
+Webinars
+Events
+Careers
+Discover
+Documentation
+Paywall newsletter
+Apple receipt validation
+Apple fiscal calendar
+Adapty pricing index
+Apple ads manager
+Subscription calculator
+Refund calculator
+Paywall A/B testing guide
+LTV prediction model
+Paywall library
+Comparing alternatives
+Ebooks
+Grow your app from $10K to $100K MRR
+Turn your weekend app into a $1K/mo business
+Scale your app from $1K to $10K MRR
+A refund guide to saving your app revenue
+Design a mobile paywall to boost subs
+View all ebooks
+Reports
+Onboarding A/B test ideas checklist
+Adapty Pricing Index
+State of in-app subscriptions 2025
+2024 holiday insights for subscription apps
+State of in-app subscriptions 2024
+State of in-app subscriptions in the US 2023
+State of Android in-app subscriptions 2022
+State of iOS in-app subscriptions 2021
+View all reports
+Compare
+RevenueCat
+Purchasely
+Qonversion
+Superwall
+In-house development
+View all comparisons
+
+
+Integrations
+Adjust
+Airbridge
+Amazon S3
+Amplitude
+AppMetrica
+Apple Ads
+AppsFlyer
+Asapty
+Branch
+Braze
+Facebook Ads
+Firebase
+Google Cloud Storage
+Google Analytics
+Mixpanel
+OneSignal
+PostHog
+Pushwoosh
+Singular
+SplitMetrics
+Stripe
+Tenjin
+Webhook
+View all integrations
+Subscriptions SDK
+iOS
+Android
+React Native
+Unity
+Flutter
+FlutterFlow
+Capacitor
+KMP
+Web
+Stripe
+Case Studies
+View all case studies
+Welmi
+MRR tripled
+Productivity app
++50% revenue with Adapty Autopilot
+Text on Pic
+Reignited growth with Autopilot
+Trip planning
+Doubled revenue per user
+Going Merry
+5x revenue growth using Paywall Builder
+Shmoody
+Grew from $0 to $2M ARR with Adapty
+Lively
+Saved 82% of potentially lost revenue
+Glam AI
+Tripled revenue, same installs
+Pepapp
+How to make Adapty free
+Fotorama
+How to decrease the refund rate with Adapty
+Docs
+Quick start
+Migrate to Adapty
+Platform status page
+Support center
+All docs
+Mobile SDK
+iOS
+Android
+React Native
+Flutter
+FlutterFlow
+Capacitor
+Kotlin Multiplatform
+Unity
+Web payments
+Stripe
+WEB API
+Server-side API
+
+
+Pricing
+Blog
+web2app
+Log in
+Sign up
+Contact sales

@@ -1,0 +1,122 @@
+--- JOBS MARKED AS NOT RELEVANT ---
+
+TITLE: Integration Engineer: Customer Developer Experience (Fully Remote)
+URL: https://apply.workable.com/constructor-1/j/integration-engineer-customer-developer-experience-fully-remote/
+REASON: The job description explicitly states, "This job is no longer available." Furthermore, the provided snippet lacks the necessary details (requirements, responsibilities, and specific tech stack like Python) to confirm if it met the user's criteria for a Python Backend Engineer role.
+------------------------------
+TITLE: Senior Backend Engineer, Recommendations (Remote)
+URL: https://apply.workable.com/constructor-1/j/senior-backend-engineer-recommendations-remote/
+REASON: The job title matches the user's desire for a Backend Engineer role, and the Senior level is appropriate for 5 years of experience. However, the job description is incomplete and critically lacks confirmation regarding the required technology stack, specifically Python. Because the primary technology requirement cannot be verified, the match score is moderate despite the role alignment.
+------------------------------
+TITLE: Senior Machine Learning Engineer: Ranking (Remote)
+URL: https://apply.workable.com/constructor-1/j/senior-machine-learning-engineer-ranking-remote/
+REASON: The user is looking for a Backend Engineer role, but this position is for a Senior Machine Learning Engineer, which is a different specialization. Crucially, the job description is incomplete and does not mention Python, which is a core requirement for the user. Therefore, relevance cannot be confirmed.
+------------------------------
+TITLE: Senior Product Designer - Searchandizing (Remote)
+URL: https://apply.workable.com/constructor-1/j/senior-product-designer-searchandizing-remote/
+REASON: The user is strictly looking for a Backend Engineer role utilizing Python. The job title is "Senior Product Designer," which falls under the Product/Design domain, not Engineering. The minimal details provided do not mention any engineering responsibilities or the use of Python.
+------------------------------
+TITLE: Technical Integration Specialist (Remote - EMEA)
+URL: https://apply.workable.com/constructor-1/j/technical-integration-specialist-remote-emea/
+REASON: The provided text only lists the job title, location, department (Engineering), and posting date for the Technical Integration Specialist role. It does not contain a job description, key responsibilities, or required tech stack. Therefore, it is impossible to verify if the role is a Backend Engineer position or if it requires Python, which are the user's primary criteria.
+------------------------------
+TITLE: Full Stack Engineer With Backend Focus: Searchandizing Team
+URL: https://apply.workable.com/constructor-1/j/full-stack-engineer-with-backend-focus-searchandizing-team/
+REASON: The job description is extremely sparse and lacks critical details needed to determine relevance. The user requires a Python Backend Engineer role. While the job title is "Full Stack Engineer With Backend Focus", the description does not mention Python, specific experience requirements, or core responsibilities. Without confirmation of Python usage, the job does not meet the user's primary technical criteria.
+------------------------------
+TITLE: Full-Stack Engineer: Retail Media (Remote)
+URL: https://apply.workable.com/constructor-1/j/full-stack-engineer-retail-media-remote/
+REASON: The user is strictly looking for a Backend Engineer role using Python. This job is advertised as a Full-Stack Engineer position. Furthermore, the provided job description is extremely sparse and does not mention any required skills, experience level, or technology stack (like Python), making it impossible to confirm relevance based on the core technology criterion.
+------------------------------
+TITLE: Product Data Analyst: AI Shopping Agents (Remote)
+URL: https://apply.workable.com/constructor-1/j/product-data-analyst-ai-shopping-agents-remote/
+REASON: The user is strictly looking for a Backend Engineer role. This job is titled 'Product Data Analyst'. Although it is listed under the 'Engineering' department, the core function of a Data Analyst is typically distinct from that of a Backend Engineer. Furthermore, the job description is only a snippet and does not confirm the required use of Python.
+------------------------------
+TITLE: JavaScript Integration Engineer: Customer Data (Remote)
+URL: https://apply.workable.com/constructor-1/j/javascript-integration-engineer-customer-data-remote/
+REASON: The user specifically seeks a Backend Engineer role using Python. The job title is "JavaScript Integration Engineer," strongly suggesting the primary technology is JavaScript, which does not match the user's Python requirement. Furthermore, the provided text is only a list of job titles, and the actual job description, requirements, and scope of work are missing, making a detailed assessment impossible.
+------------------------------
+TITLE: Software Engineer : Core Team (Remote)
+URL: https://apply.workable.com/constructor-1/j/software-engineer-core-team-remote/
+REASON: The provided job posting is extremely minimal, only listing the title, location, department, and posting date. Crucially, it does not mention the required programming language (Python) or provide any details about the responsibilities, tech stack, or required experience level. Therefore, it is impossible to confirm if this role aligns with the user's criteria for a Python Backend Engineer role.
+------------------------------
+TITLE: Integration Engineer: Customer Developer Experience (Fully Remote)
+URL: https://apply.workable.com/constructor-1/j/INTEGRATION-ENGINEER-CUSTOMER-DEVELOPER-EXPERIENCE-FULLY-REMOTE/
+REASON: The detailed job description for the 'Integration Engineer' role is missing. The title suggests a focus on systems integration rather than core Backend Engineering. Crucially, there is no information confirming the use of Python or the required seniority level (to match the user's 5 years of experience). Without these details, the job cannot be considered a strong match.
+------------------------------
+TITLE: Senior Backend Engineer, Recommendations (Remote)
+URL: https://apply.workable.com/constructor-1/j/SENIOR-BACKEND-ENGINEER-RECOMMENDATIONS-REMOTE/
+REASON: The job description explicitly states: "This job is no longer available." Therefore, it is not a viable opportunity for the user to pursue. Additionally, the required technology (Python) and specific job requirements are not detailed in the provided text.
+------------------------------
+TITLE: Senior Machine Learning Engineer: Ranking (Remote)
+URL: https://apply.workable.com/constructor-1/j/SENIOR-MACHINE-LEARNING-ENGINEER-RANKING-REMOTE/
+REASON: The job title is 'Senior Machine Learning Engineer,' which primarily focuses on ML/AI model development and ranking systems, diverging from the user's explicit request for a 'Backend Engineer' role. Crucially, the job description is incomplete, providing no details on required technologies (like Python), specific responsibilities, or necessary years of experience, making a proper assessment of the match impossible.
+------------------------------
+TITLE: Senior Product Designer - Searchandizing (Remote)
+URL: https://apply.workable.com/constructor-1/j/SENIOR-PRODUCT-DESIGNER-SEARCHANDIZING-REMOTE/
+REASON: The user is strictly looking for a Backend Engineer role that utilizes Python. This job is for a Senior Product Designer, which is a design role, not an engineering role. Furthermore, the job description does not mention any required technologies, including Python.
+------------------------------
+TITLE: Technical Integration Specialist (Remote - EMEA)
+URL: https://apply.workable.com/constructor-1/j/TECHNICAL-INTEGRATION-SPECIALIST-REMOTE-EMEA/
+REASON: The provided text only lists the job title, 'Technical Integration Specialist (Remote - EMEA)', alongside other openings. It does not contain the detailed job description, responsibilities, or required tech stack. Therefore, it is impossible to confirm if this role is a Backend Engineer position or if it utilizes Python, which are key requirements for the user.
+------------------------------
+TITLE: Full Stack Engineer With Backend Focus: Searchandizing Team
+URL: https://apply.workable.com/constructor-1/j/FULL-STACK-ENGINEER-WITH-BACKEND-FOCUS-SEARCHANDIZING-TEAM/
+REASON: The job posting explicitly states, "This job is no longer available," making it irrelevant for an active job search, regardless of how well the title matches the user's criteria (Backend Engineer role).
+------------------------------
+TITLE: Full-Stack Engineer: Retail Media (Remote)
+URL: https://apply.workable.com/constructor-1/j/FULL-STACK-ENGINEER-RETAIL-MEDIA-REMOTE/
+REASON: The job posting explicitly states that the position is no longer available, making it irrelevant for an active job search. Furthermore, the description provides no details about the required technology (such as Python) or specific duties to assess a technical match, even if the role were active.
+------------------------------
+TITLE: Product Data Analyst: AI Shopping Agents (Remote)
+URL: https://apply.workable.com/constructor-1/j/PRODUCT-DATA-ANALYST-AI-SHOPPING-AGENTS-REMOTE/
+REASON: The user is strictly looking for a Backend Engineer role. This job is titled "Product Data Analyst," which is typically a functionally different role focusing on metrics and reporting rather than software development. The job description is also extremely sparse and fails to mention Python, the required technology, or details regarding necessary experience (5 years) to confirm relevance.
+------------------------------
+TITLE: JavaScript Integration Engineer: Customer Data (Remote)
+URL: https://apply.workable.com/constructor-1/j/JAVASCRIPT-INTEGRATION-ENGINEER-CUSTOMER-DATA-REMOTE/
+REASON: This job is explicitly stated as no longer available. Furthermore, the role title is "JavaScript Integration Engineer," which primarily indicates a focus on JavaScript, not the user's required Python Backend Engineer role.
+------------------------------
+TITLE: Software Engineer : Core Team (Remote)
+URL: https://apply.workable.com/constructor-1/j/SOFTWARE-ENGINEER-CORE-TEAM-REMOTE/
+REASON: The job title 'Software Engineer' suggests potential relevance to a Backend role in Engineering. However, the provided job text is only a listing snippet and lacks the full job description. Therefore, it is impossible to verify the required experience level (5 years) or the essential technology requirement (Python). It is only classified as relevant because it is an engineering role.
+------------------------------
+TITLE: Integration Engineer: Customer Developer Experience (Fully Remote)
+URL: https://apply.workable.com/constructor-1/integration-engineer-customer-developer-experience-fully-remote/
+REASON: The user is seeking a Backend Engineer role primarily using Python. This job is titled "Integration Engineer," and the provided job description is extremely sparse, offering no details about the required technologies, specific responsibilities, or whether Python is used. Therefore, I cannot confirm if it meets the mandatory criteria.
+------------------------------
+TITLE: Senior Backend Engineer, Recommendations (Remote)
+URL: https://apply.workable.com/constructor-1/senior-backend-engineer-recommendations-remote/
+REASON: The job title "Senior Backend Engineer" aligns well with the user's request for a Backend Engineer role and 5 years of experience. However, the provided text is only a list of job openings, and the critical details—specifically the required tech stack (Python) and the detailed requirements—are completely missing. Therefore, the core technical fit cannot be confirmed.
+------------------------------
+TITLE: Senior Machine Learning Engineer: Ranking (Remote)
+URL: https://apply.workable.com/constructor-1/senior-machine-learning-engineer-ranking-remote/
+REASON: The user is strictly looking for a Backend Engineer role. This job is titled "Senior Machine Learning Engineer: Ranking," which is a specialized ML/AI position, not a core backend role. Furthermore, the provided job description snippet contains zero details regarding the required technology (Python) or specific job responsibilities, making it impossible to confirm alignment with the user's primary tech requirement.
+------------------------------
+TITLE: Senior Product Designer - Searchandizing (Remote)
+URL: https://apply.workable.com/constructor-1/senior-product-designer-searchandizing-remote/
+REASON: The user is seeking a Backend Engineer role. The advertised position is for a Senior Product Designer, which is a design and UX function, not an engineering role. Furthermore, the provided job description is incomplete and lacks details regarding responsibilities, requirements, or the tech stack (including Python) required.
+------------------------------
+TITLE: Technical Integration Specialist (Remote - EMEA)
+URL: https://apply.workable.com/constructor-1/technical-integration-specialist-remote-emea/
+REASON: The job title is 'Technical Integration Specialist,' which is not explicitly a Backend Engineer role as requested. Furthermore, the job description snippet provides no details regarding specific responsibilities, required experience, or the technology stack (Python). Therefore, the critical user criteria cannot be matched or confirmed.
+------------------------------
+TITLE: Full Stack Engineer With Backend Focus: Searchandizing Team
+URL: https://apply.workable.com/constructor-1/full-stack-engineer-with-backend-focus-searchandizing-team/
+REASON: The job title, 'Full Stack Engineer With Backend Focus,' aligns well with the user's interest in a Backend Engineer role. However, the provided text is only a list of job openings and does not contain the detailed description, key responsibilities, or technical requirements (including mandatory Python usage). Therefore, the essential criterion of using Python cannot be confirmed, and the required 5 years of experience cannot be matched against the role's seniority level. Due to this critical lack of information, the job cannot be strictly confirmed as relevant.
+------------------------------
+TITLE: Full-Stack Engineer: Retail Media (Remote)
+URL: https://apply.workable.com/constructor-1/full-stack-engineer-retail-media-remote/
+REASON: The provided text is only a job listing title and metadata within a larger list of jobs. The actual job description for the "Full-Stack Engineer: Retail Media (Remote)" role is entirely missing. Therefore, it is impossible to confirm the required tech stack (Python) or the primary focus (Backend vs. Full-Stack).
+------------------------------
+TITLE: Product Data Analyst: AI Shopping Agents (Remote)
+URL: https://apply.workable.com/constructor-1/product-data-analyst-ai-shopping-agents-remote/
+REASON: The user is strictly seeking a Backend Engineer role. The listed job is for a Product Data Analyst. While the job is categorized under 'Engineering,' the functional title is a mismatch. Furthermore, the job description snippet provided is incomplete and does not confirm the use of Python or the relevance of the user's 5 years of software engineering experience.
+------------------------------
+TITLE: JavaScript Integration Engineer: Customer Data (Remote)
+URL: https://apply.workable.com/constructor-1/javascript-integration-engineer-customer-data-remote/
+REASON: The user is strictly looking for a Backend Engineer role utilizing Python. The job title explicitly states 'JavaScript Integration Engineer,' suggesting the primary technology is JavaScript, which conflicts with the user's primary requirement of Python. The provided text does not contain a detailed job description to verify any potential backend Python components.
+------------------------------
+TITLE: Software Engineer : Core Team (Remote)
+URL: https://apply.workable.com/constructor-1/software-engineer-core-team-remote/
+REASON: The provided text only lists the title, location, department, and posting date for the "Software Engineer : Core Team (Remote)" role. It does not include the detailed job description, required skills, specific technologies (like Python), or necessary experience level. Therefore, it is impossible to determine if this job meets the user's criteria for a Backend Engineer role using Python and requiring 5 years of experience.
+------------------------------

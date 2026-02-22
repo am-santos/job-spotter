@@ -1,0 +1,42 @@
+--- JOBS MARKED AS NOT RELEVANT ---
+
+TITLE: Integration Engineer: Customer Developer Experience (Fully Remote)
+URL: https://apply.workable.com/constructor-1/integration-engineer-customer-developer-experience-fully-remote/
+REASON: The job posting is incomplete, lacking essential details about the required technology stack (specifically Python, as requested), key responsibilities, and specific experience level. While the role title suggests an engineering function, without the full job description, it is impossible to confirm if it meets the user's core criteria for a Python Backend Engineer role.
+------------------------------
+TITLE: Senior Backend Engineer, Recommendations (Remote)
+URL: https://apply.workable.com/constructor-1/senior-backend-engineer-recommendations-remote/
+REASON: The job title matches the user's request for a Backend Engineer role, and the seniority level is generally compatible with 5 years of experience. However, the provided job description is extremely brief, consisting only of the posting header. Crucially, it does not confirm if Python is the required programming language, which is a core requirement for the user. Without verification of the necessary tech stack, this job cannot be confirmed as relevant.
+------------------------------
+TITLE: Senior Machine Learning Engineer: Ranking (Remote)
+URL: https://apply.workable.com/constructor-1/senior-machine-learning-engineer-ranking-remote/
+REASON: The user is strictly looking for a Backend Engineer role. This position is a Senior Machine Learning Engineer focused on Ranking. While ML engineering is adjacent to backend development and the 'Senior' title aligns with the user's 5 years of experience, the functional focus is specialized ML, not general backend engineering. Furthermore, the detailed job description, including confirmation of Python usage, specific requirements, and responsibilities, is not provided in the snippet, making a full assessment impossible.
+------------------------------
+TITLE: Senior Product Designer - Searchandizing (Remote)
+URL: https://apply.workable.com/constructor-1/senior-product-designer-searchandizing-remote/
+REASON: The user is strictly looking for a Backend Engineer role. The posted job is for a Senior Product Designer, which is a product and design function, representing a fundamental mismatch in career focus. The job description content required to verify technology (Python) or specific responsibilities is also missing.
+------------------------------
+TITLE: Technical Integration Specialist (Remote - EMEA)
+URL: https://apply.workable.com/constructor-1/technical-integration-specialist-remote-emea/
+REASON: The provided text is only a job board listing snippet and lacks the detailed job description, requirements, and tech stack for the Technical Integration Specialist role. I cannot confirm if the role requires Python, which is the user's core technology criterion, or if the role is primarily focused on pure backend engineering as requested, rather than integration/client support.
+------------------------------
+TITLE: Full Stack Engineer With Backend Focus: Searchandizing Team
+URL: https://apply.workable.com/constructor-1/full-stack-engineer-with-backend-focus-searchandizing-team/
+REASON: The job title, 'Full Stack Engineer With Backend Focus,' partially aligns with the user's request for a Backend Engineer role. However, the provided job description is extremely sparse, lacking any details regarding key requirements, responsibilities, or the specific technology stack. Crucially, there is no mention of Python being required or used, nor is there an indication of the seniority level appropriate for a candidate with 5 years of experience. Due to the complete absence of critical matching criteria, the relevance cannot be confirmed.
+------------------------------
+TITLE: Full-Stack Engineer: Retail Media (Remote)
+URL: https://apply.workable.com/constructor-1/full-stack-engineer-retail-media-remote/
+REASON: The provided job snippet only lists the title, location, and posting date. It does not contain the detailed job description, required tech stack (specifically Python), or experience level needed to confirm if it matches the user's criteria for a Python Backend Engineer role. Furthermore, the title is 'Full-Stack Engineer', not 'Backend Engineer', which is a mismatch in focus.
+------------------------------
+TITLE: Product Data Analyst: AI Shopping Agents (Remote)
+URL: https://apply.workable.com/constructor-1/product-data-analyst-ai-shopping-agents-remote/
+REASON: The user is seeking a Backend Engineer role, but this job is titled "Product Data Analyst". This is a fundamental mismatch in function. Additionally, the description lacks any specific details regarding required programming languages (like Python) or experience level, making it impossible to assess relevance against the user's technical criteria.
+------------------------------
+TITLE: JavaScript Integration Engineer: Customer Data (Remote)
+URL: https://apply.workable.com/constructor-1/javascript-integration-engineer-customer-data-remote/
+REASON: The user is strictly looking for a Backend Engineer role primarily utilizing Python. This job is specifically titled "JavaScript Integration Engineer: Customer Data," which indicates a primary technology focus on JavaScript and a function related to integration/data flow rather than core Python backend development. Furthermore, the detailed job requirements and seniority level needed to match the user's 5 years of experience are not provided.
+------------------------------
+TITLE: Software Engineer : Core Team (Remote)
+URL: https://apply.workable.com/constructor-1/software-engineer-core-team-remote/
+REASON: The provided job posting snippet only lists the title, location (Remote), department (Engineering), and posting date for the "Software Engineer : Core Team" role. It lacks crucial details regarding the required tech stack, responsibilities, and specific experience level. Therefore, it is impossible to confirm if this is a Backend Engineer role or if it requires Python, which are the user's core criteria.
+------------------------------
